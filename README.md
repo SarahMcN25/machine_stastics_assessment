@@ -1,1 +1,1 @@
-# machine_stastics_assessment
+# machine_statistics_assessment
