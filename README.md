@@ -6,20 +6,20 @@ by Sarah McNelis
 
 ## Introduction
 
-This repository is my MLS Portfolio containing jupyter notebooks for the module Machine Learning and Statistics (MLS) assessment as part of my Higher Diplomena in Computer Science Data Analaysis. 
+This is my MLS Portfolio containing jupyter notebooks as part of my assessment for Machine Learning and Statistics (MLS) module for my Higher Diplomena in Computing in Data Analytics.
 
 <br>
 
 ## Setup
 
-### Install the following:
+### Install the following
 
-1. Download and install [anaconda]().
-2. Download and install [cmder]() if on windows.
+1. Download and install [anaconda](https://docs.anaconda.com/anaconda/install/index.html).
+2. Download and install [cmder](https://cmder.app/) if on windows.
 
 <br>
 
-### Running a jupyter notebook:
+### Running a jupyter notebook
 
 1. Open [cmder] terminal.
 2. Run `jupyter lab` or `jupyter notebook`on the command line.
@@ -49,7 +49,7 @@ You can view my MLS Portfolio on nbviewer by clicking on the following badge:
 
 
 ### Binder
-You can also view my MLS Portfolio on mybinder by clicking on this badge:
+You can view my MLS Portfolio on mybinder by clicking on the following badge:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SarahMcN25/machine_statistics_assessment/HEAD)
 
