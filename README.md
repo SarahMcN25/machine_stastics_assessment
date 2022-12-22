@@ -34,10 +34,10 @@ This is my MLS Portfolio containing jupyter notebooks as part of my assessment f
 
 ## What to expect
 
-This repository is broken into two parts - a and b. 
+This repository is broken into two parts - A and B. 
 
 
-a) `anomaly-detection.ipynb` 
+### A) `anomaly-detection.ipynb` 
 This is a project based on Anomaly Detection using Keras. 
 The task for this project is to re-create the time-series anomaly detection from the offical keras website, re-construct and explain the concepts of each function and the process of anomaly detection. 
 
@@ -51,11 +51,9 @@ This notebook is divided into 4 sections:
 
 4. **Evaluation** - This contains a lot of smaller parts. First the history of the training and validation lost must be retrieved. Then the training loss must be predicted in order to establish the threshold. Once this is done the testing data can be set up and the testing loss for this predicted too. Finally, the anomaly detection is set up to determine if the testing loss is greater than the training loss. If this is true an anomaly is found. 
 
-
 <br>
 
-
-b) `exercises` folder
+### B) `exercises` folder
 This folder which is comprised of weekly exercises completed using jupyter notebooks. Each notebook contains tasks which are clearly marked and described within. 
 
 The 3 notebooks are as follows:
@@ -65,7 +63,6 @@ The 3 notebooks are as follows:
 2. `02-models-exercises.ipnb` - contains 2 exercises which focuses on fitting a straight line using numpy polyfit, scipy optimize minimize and scipy optimize curve fit. 
 
 3. `01-parameters-exercises.ipnb` - has 1 exercise which involved using numpy's polyfit to fit polynomials to two different datasets. 
-
 
 <br>
 
@@ -83,7 +80,6 @@ You can view my MLS Portfolio on nbviewer by clicking on the following badge:
 You can view my MLS Portfolio on mybinder by clicking on the following badge:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SarahMcN25/machine_statistics_assessment/HEAD)
-
 
 <br>
 
