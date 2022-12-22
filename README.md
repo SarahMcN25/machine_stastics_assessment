@@ -37,6 +37,21 @@ This is my MLS Portfolio containing jupyter notebooks as part of my assessment f
 This repository contains a jupyter notebook named `anomaly-detection.ipynb`. This is a project based on Anomaly Detection using Keras. 
 
 This repository also contains an `exercises` folder which is comprised of weekly exercises completed using jupyter notebooks. Each notebook contains tasks which are clearly marked and described within. 
+<br>
+
+
+
+
+**Project Task:**
+
+- On the keras5 website, there is an example of time-series anomaly detection  
+
+
+- Re-create this example in a notebook of your own, explaining the concepts
+
+
+- clearly explain each keras function used, referring to the documentation.
+
 
 <br>
 
