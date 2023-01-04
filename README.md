@@ -6,7 +6,7 @@ by Sarah McNelis - G00398343
 
 ## Introduction
 
-This is my MLS Portfolio containing jupyter notebooks as part of my assessment for Machine Learning and Statistics (MLS) module for my Higher Diplomena in Computing in Data Analytics.
+This repository contains my MLS Portfolio which consists of jupyter notebooks as part of my assessment for Machine Learning and Statistics (MLS) module for my Higher Diplomena in Computing in Data Analytics.
 
 <br>
 
@@ -39,30 +39,30 @@ This repository is broken into two parts - A and B.
 
 ### A) `anomaly-detection.ipynb` 
 This is a project based on Anomaly Detection using Keras. 
-The task for this project is to re-create the time-series anomaly detection from the offical keras website, re-construct and explain the concepts of each function and the process of anomaly detection. 
+The task for this project is to re-create the time-series anomaly detection from the offical keras website. This involves re-constructing and explaining the concepts of each function and the process of anomaly detection. 
 
 This notebook is divided into 4 sections:
 
 1. **Loading the data** - This consists of retrieving the training and testing datasets and setting them up.
 
-2. **Preprocessing** - This section looks at setting up the training data dna training the model.
+2. **Preprocessing** - This section looks at setting up the training data and training the model.
  
 3. **Neural Network** - In this part of the notebook I look at building the layers for the neural network foundation and then fitting the model. 
 
-4. **Evaluation** - This contains a lot of smaller parts. First the history of the training and validation lost must be retrieved. Then the training loss must be predicted in order to establish the threshold. Once this is done the testing data can be set up and the testing loss for this predicted too. Finally, the anomaly detection is set up to determine if the testing loss is greater than the training loss. If this is true an anomaly is found. 
+4. **Evaluation** - This section is made up of smaller elements. First the history of the training and validation lost must be retrieved. Then the training loss must be predicted in order to establish the threshold. Once this is done, the testing data can be set up and the testing loss for this predicted too. Finally, the anomaly detection is set up to determine if the testing loss is greater than the training loss. If this is true, an anomaly is found. 
 
 <br>
 
 ### B) `exercises` folder
-This folder which is comprised of weekly exercises completed using jupyter notebooks. Each notebook contains tasks which are clearly marked and described within. 
+This folder is comprised of weekly exercises completed using jupyter notebooks. Each notebook contains tasks which are clearly marked and described within. 
 
 The 3 notebooks are as follows:
 
 1. `01-statistics-exercises.ipnb` - consists of 4 exercises based around scipy's version of Fisher's exact test relating the the Lady Tasting Tea problem. 
 
-2. `02-models-exercises.ipnb` - contains 2 exercises which focuses on fitting a straight line using numpy polyfit, scipy optimize minimize and scipy optimize curve fit. 
+2. `02-models-exercises.ipnb` - contains 2 exercises which focuses on fitting a straight line using numpy polyfit, scipy optimize minimize and scipy optimize curve fit methods. 
 
-3. `01-parameters-exercises.ipnb` - has 1 exercise which involved using numpy's polyfit to fit polynomials to two different datasets. 
+3. `01-parameters-exercises.ipnb` - has 1 exercise which involves using numpy's polyfit to fit polynomials to two different datasets. 
 
 <br>
 
@@ -86,7 +86,9 @@ You can view my MLS Portfolio on mybinder by clicking on the following badge:
 
 ## Credits
 
-- For the weekly exercises I heavely relied on my lecturer's notes. You can access his notebooks [here](https://github.com/ianmcloughlin/2223-S1-machine-learn-stats/tree/main/notebooks). I also sourced code and concepts from the references in the list below. 
+- For both the weekly exercises and the anomaly-detection project I heavely relied on my lecturer's notes. You can access his notebooks [here](https://github.com/ianmcloughlin/2223-S1-machine-learn-stats/tree/main/notebooks). 
+
+- I also sourced concepts and code from the below references list. 
 
 
 <br>
